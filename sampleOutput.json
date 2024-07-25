@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+      {
+        "source": {
+          "id": "australian-financial-review",
+          "name": "Australian Financial Review"
+        },
+        "author": "Michael Read",
+        "title": "PM’s Made in Australia plan a risk to living standards: PC",
+        "description": "The Productivity Commission has warned Labor’s Made in Australia plan risks evolving into protectionism, undermining decades of reform aimed at creating a vibrant economy.",
+        "url": "http://www.afr.com/policy/economy/labor-s-green-subsidies-a-risk-to-living-standards-pc-20240723-p5jvv5",
+        "urlToImage": "https://static.ffx.io/images/$zoom_0.5521%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/ca15618ff97add51e0e57314bbb9d1594a2eb1dc",
+        "publishedAt": "2024-07-24T12:30:00Z",
+        "content": "The Albanese governments Future Made in Australia plan risks making Australians poorer and evolving into protectionism, undermining decades of reform aimed at creating a vibrant trading economy, the … [+320 chars]"
+      },
+      {
+        "source": {
+          "id": "the-wall-street-journal",
+          "name": "The Wall Street Journal"
+        },
+        "author": "Jon Kamp, Richard Rubin, Justin Lahart",
+        "title": "How Would a President Kamala Harris Handle the Economy?",
+        "description": "Vice president puts focus on workers, middle class as she launches White House bid",
+        "url": "https://www.wsj.com/politics/elections/kamala-harris-economy-policy-election-2024-333a3751?mod=hp_lead_pos7",
+        "urlToImage": "https://images.wsj.net/im-983268/social",
+        "publishedAt": "2024-07-24T03:00:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": null,
+        "title": "Removing domestic trade barriers could boost productivity, add $200 billion to economy annually: CFIB",
+        "description": "The removal of interprovincial trade barriers could improve productivity and add $200 billion to Canada's economy each year. Find out more.",
+        "url": "https://financialpost.com/news/economy/removing-domestic-trade-barriers-boost-productivity-add-200-billion-economy",
+        "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/07/no0723beer.jpg",
+        "publishedAt": "2024-07-23T18:37:14.0607151Z",
+        "content": "The removal of interprovincial trade barriers could improve productivity and add as much as $200 billion to Canadas economy each year, or $5,100 per person, according to a new report by the Canadian … [+3274 chars]"
+      },
+      {
+        "source": {
+          "id": "politico",
+          "name": "Politico"
+        },
+        "author": null,
+        "title": "Biden’s economy: Good metrics, bad vibes, few levers",
+        "description": "Friday’s good jobs numbers may be a boost. But boosts haven’t yet materialized into political benefits.",
+        "url": "https://www.politico.com/news/2024/06/07/biden-has-an-economic-story-to-tell-and-yet-00162338",
+        "urlToImage": null,
+        "publishedAt": "2024-06-07T19:21:44+00:00",
+        "content": "Friday’s good jobs numbers may be a boost. But boosts haven’t yet materialized into political benefits."
+      },
+      {
+        "source": {
+          "id": "fortune",
+          "name": "Fortune"
+        },
+        "author": "Ram Charan",
+        "title": "4 vital steps that U.S. CEOs must take in the economic battle with China",
+        "description": "China's economy is huge, but for many companies the opportunities aren't worth the risks.",
+        "url": "https://fortune.com/2022/05/31/china-us-trade-competition-decoupling-supply-chains-intellectual-property/",
+        "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/GettyImages-1240814688-e1653692803397.jpg?resize=1200,600",
+        "publishedAt": "2022-05-31T13:00:00Z",
+        "content": "Skip to Content"
+      }
+    ]
+  }
